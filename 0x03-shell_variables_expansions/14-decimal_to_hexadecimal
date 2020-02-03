@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%x\n" $DECIMAL # the x is specifier for a hex value syntax "%specifier\n" $var you want to change  http://www.cplusplus.com/reference/cstdio/printf/
+printf "%x\n" $DECIMAL #syntax "%specifier\n" $vartochange http://www.cplusplus.com/reference/cstdio/printf/
