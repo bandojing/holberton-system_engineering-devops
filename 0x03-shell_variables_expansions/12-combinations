@@ -1,0 +1,2 @@
+#!/bin/bash
+echo {a..z}{a..z} | tr ' ' '\n' | grep -v "oo" # print out letter combos replace ' ' with '\n' then remove 'oo'
