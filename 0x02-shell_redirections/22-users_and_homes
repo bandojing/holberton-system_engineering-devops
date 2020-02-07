@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d ":" -f 1,6 | sort
+cut --f 2,5 | sort -k 1
